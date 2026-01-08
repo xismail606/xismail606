@@ -5,10 +5,12 @@
   />
 </div>
 
+<div align="center">
+  
 # 💫 About Me
 ```text
-🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.<br>
-🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.<br>
+🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.
+🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.
 🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.
 ```
 ---
@@ -23,4 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="php" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
