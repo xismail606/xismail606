@@ -5,17 +5,16 @@
   />
 </div>
 
-<div align="center">
   
-# 💫 About Me
-```text
+# 💫 About Me 
+```yaml
 🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.
 🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.
 🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.
 ```
 ---
 
-## 🌐 Socials
+<h2>🌐 Socials <h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailabdelhameed)
 
 ---
