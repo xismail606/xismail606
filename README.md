@@ -1,45 +1,63 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Offensive%20Security&height=120&section=header"
     alt="GitHub Header"
+    width="100%"
   />
 </div>
 
-----
+---
 
+<!-- ===================== SOCIAL ===================== -->
 <div align="center">
-<a href="https://www.linkedin.com/in/ismailabdelhameed">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+  <a href="https://www.linkedin.com/in/ismailabdelhameed">
+    <img 
+      height="50" 
+      src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
 
 ---
 
-# 💫 About Me 
-```yaml
-🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.
-🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.
-🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.
-```
+<!-- ===================== ABOUT ===================== -->
+<h2 align="center"> 💫 About Me </h2>
+
+<pre>
+role: Penetration Testing Enthusiast
+focus:
+  - Offensive Security
+  - Red Team Fundamentals
+  - Attack Automation
+research_interests:
+  - Vulnerability Research
+  - Defensive Evasion
+  - Real-World Exploitation
+</pre>
 
 ---
 
-<h2> 📚 Currently Learning & Practicing </h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascrip" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
+<!-- ===================== SKILLS ===================== -->
+<h2 align="center"> ⚔️ Offensive Skills in Progress </h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
+---
+
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
@@ -47,4 +65,3 @@
     width="100%"
   />
 </div>
-
