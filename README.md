@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 # 💫 About Me
-🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.<br>
+```🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.<br>
 🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.<br>
-🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.
+🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.```
 
 ---
 
