@@ -40,7 +40,7 @@ research_interests:
 ---
 
 <!-- ===================== SKILLS ===================== -->
-<h1 align="center"> ⚔️ Offensive Skills in Progress </h1>
+<h1 align="center"> ⚔️ Currently Learning & Practicing </h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
@@ -53,6 +53,8 @@ research_interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" awidth="50"/>
 </p>
 
 ---
