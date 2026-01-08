@@ -4,6 +4,7 @@
     alt="GitHub Header"
   />
 </div>
+---
 
   
 # 💫 About Me 
@@ -12,10 +13,6 @@
 🎯 Currently focused on Red Team fundamentals, attack automation, and adversary simulation.
 🧪 Strong interest in vulnerability research, defensive evasion techniques, and real-world exploitation.
 ```
----
-
-<h2>🌐 Socials <h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailabdelhameed)
 
 ---
 
