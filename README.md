@@ -13,7 +13,8 @@
 </a>
 </div>
 
-  
+---
+
 # 💫 About Me 
 ```yaml
 🛡️ Penetration Testing Enthusiast specializing in offensive security and hands-on research.
@@ -38,3 +39,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 </p>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    alt="GitHub Footer"
+    width="100%"
+  />
+</div>
+
