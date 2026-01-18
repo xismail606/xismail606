@@ -10,6 +10,8 @@
 ---
 
 <!-- ===================== SOCIAL ===================== -->
+<h1 align="center"> 📫 Contact Me </h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ismailabdelhameed">
     <img 
