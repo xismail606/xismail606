@@ -32,6 +32,9 @@
 <br/>
 <br/>
 
+</div>
+
+<!-- ===================== ABOUT ===================== -->
 <h1 align="center"> 💫 About Me </h1>
 
 ```
@@ -47,6 +50,8 @@ research_interests:
 ```
 
 ---
+
+<div align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
