@@ -13,27 +13,35 @@
 </p>
 
 <!-- ===================== SOCIAL ===================== -->
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://www.linkedin.com/in/ismailabdelhameed" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="70"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xismail606">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"/>
-</a>
-
 <br><br>
-
 <a href="https://www.linkedin.com/in/ismailabdelhameed">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xismail606">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-</div>
+</td>
+
+<td width="80"></td>
+
+<td align="center">
+
+<a href="https://github.com/xismail606">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/>
+</a>
+<br><br>
+<a href="https://github.com/xismail606">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
