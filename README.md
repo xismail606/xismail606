@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<h1> 💫 About Me </h1>
+<h1 align="center"> 💫 About Me </h1>
 
 ```
 role: Penetration Testing Enthusiast
