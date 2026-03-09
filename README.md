@@ -29,9 +29,10 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
 </a>
 
----
+<br/>
+<br/>
 
-<h1 align="center"> 💫 About Me </h1>
+<h1> 💫 About Me </h1>
 
 ```
 role: Penetration Testing Enthusiast
