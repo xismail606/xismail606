@@ -8,6 +8,11 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=80&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=1800&height=150&lines=Initialising+Uplink...;root%40x606:~%23+whoami;Penetration+Tester;Cybersecurity+Enthusiast;x606;Access+Granted...+Welcome." />
+</p>
+
+---
 
 <!-- ===================== SOCIAL ===================== -->
 <h1 align="center"> 📫 Contact Me </h1>
