@@ -13,20 +13,20 @@
 </p>
 
 <!-- ===================== SOCIAL ===================== -->
-<a href="https://www.linkedin.com/in/ismailabdelhameed" target="_blank">
+<a align="center" href="https://www.linkedin.com/in/ismailabdelhameed" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xismail606">
+<a align="center" href="https://github.com/xismail606">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/ismailabdelhameed">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&v=999" alt="LinkedIn" />
+<a align="center" href="https://www.linkedin.com/in/ismailabdelhameed">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&v=999" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xismail606">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
+<a align="center" href="https://github.com/xismail606">
+  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
 </a>
 
 <br/>
