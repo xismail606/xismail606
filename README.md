@@ -35,7 +35,7 @@
 <!-- ===================== ABOUT ===================== -->
 <h1 align="center"> 💫 About Me </h1>
 
-<pre><strong>
+```
 role: Penetration Testing Enthusiast
 focus:
   - Offensive Security
@@ -45,9 +45,7 @@ research_interests:
   - Vulnerability Research
   - Defensive Evasion
   - Real-World Exploitation
-</strong></pre>
-
----
+```
 
 <!-- ===================== SKILLS ===================== -->
 <h1 align="center"> 📚 Currently Learning & Practicing </h1>
