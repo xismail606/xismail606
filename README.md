@@ -2,50 +2,36 @@
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=x606&height=140&section=header"
-    alt="GitHub Header"
-    width="100%"
+    alt="GitHub Profile Banner"
   />
 </div>
 
-<p align="center">
- 
- # <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=80&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=1800&height=150&lines=Initialising+Uplink...;root%40x606:~%23+whoami;Penetration+Tester;Cybersecurity+Enthusiast;x606;Access+Granted...+Welcome." />
-</p>
+<div align="center">
 
-<!-- ===================== SOCIAL ===================== -->
-<table align="center">
-<tr>
-<td align="center">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=80&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=1800&height=150&lines=Initialising+Uplink...;root%40x606:~%23+whoami;Penetration+Tester;Cybersecurity+Enthusiast;x606;Access+Granted...+Welcome." alt="Typing SVG" />
+
+<br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/ismailabdelhameed" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="70"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/xismail606">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+<br/>
 <a href="https://www.linkedin.com/in/ismailabdelhameed">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
-
-</td>
-
-<td width="80"></td>
-
-<td align="center">
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/xismail606">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/>
-</a>
-<br><br>
-<a href="https://github.com/xismail606">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
 </a>
 
-</td>
-</tr>
-</table>
+<br/>
+<br/>
 
-
-
-<!-- ===================== ABOUT ===================== -->
 <h1 align="center"> 💫 About Me </h1>
 
 ```
@@ -60,25 +46,17 @@ research_interests:
   - Real-World Exploitation
 ```
 
-<!-- ===================== SKILLS ===================== -->
-<h1 align="center"> 📚 Currently Learning & Practicing </h1>
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50""/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,js,python,go,html,mysql,git,github,linux,vscode,vim&perline=10&theme=dark" alt="Skills" />
+  </a>
 </p>
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"
     alt="GitHub Footer"
     width="100%"
   />
