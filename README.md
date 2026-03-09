@@ -45,6 +45,7 @@ research_interests:
   - Defensive Evasion
   - Real-World Exploitation
 ```
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
