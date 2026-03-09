@@ -37,14 +37,15 @@
 ```
 role: Penetration Testing Enthusiast
 focus:
-- Offensive Security
-- Red Team Fundamentals
-- Attack Automation
+  - Offensive Security
+  - Red Team Fundamentals
+  - Attack Automation
 research_interests:
-- Vulnerability Research
-- Defensive Evasion
-- Real-World Exploitation
+  - Vulnerability Research
+  - Defensive Evasion
+  - Real-World Exploitation
 ```
+
 ---
 
 <p align="center">
