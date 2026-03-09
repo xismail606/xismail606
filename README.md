@@ -37,13 +37,13 @@
 ```
 role: Penetration Testing Enthusiast
 focus:
-  - Offensive Security
-  - Red Team Fundamentals
-  - Attack Automation
+- Offensive Security
+- Red Team Fundamentals
+- Attack Automation
 research_interests:
-  - Vulnerability Research
-  - Defensive Evasion
-  - Real-World Exploitation
+- Vulnerability Research
+- Defensive Evasion
+- Real-World Exploitation
 ```
 ---
 
@@ -52,8 +52,6 @@ research_interests:
     <img src="https://skillicons.dev/icons?i=bash,js,python,go,html,mysql,git,github,linux,vscode,vim&perline=10&theme=dark" alt="Skills" />
   </a>
 </p>
-
----
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
