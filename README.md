@@ -55,7 +55,7 @@ research_interests:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,js,python,go,html,mysql,git,github,linux,vscode,vim&perline=10&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=bash,js,python,html,mysql,git,github,linux,vscode,vim&perline=10&theme=dark" alt="Skills" />
   </a>
 </p>
 
